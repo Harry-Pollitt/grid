@@ -227,3 +227,5 @@ class Grid():
 
             # Remove the cell from the filled list.
             self._filled.remove((x, y))
+
+#help
